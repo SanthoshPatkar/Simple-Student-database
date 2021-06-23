@@ -1,7 +1,7 @@
 # Simple-Student-database
 
 Front end
--Python Tkinter
+-Python (Tkinter)
 
 Backend
 -My SQL Workbench
